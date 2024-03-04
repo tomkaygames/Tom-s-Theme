@@ -10,4 +10,4 @@
 - Theme.css is commented, in case you want to make your own theme!
 - Released under MIT License
 
-![[example.png]]
+![Example image](example.png)
