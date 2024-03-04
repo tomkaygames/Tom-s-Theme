@@ -67,12 +67,12 @@ body {
   --text-error-hover: orange;	
 
   /* Highlighter mark, selected bullet points and heading symbols */
-  --text-highlight-bg: var(--color-darkgreen);
+  --text-highlight-bg: rgba(48, 104, 80, 0.5);
 
   --text-highlight-bg-active: blue;
 
   /* Mouse selection */
-  --text-selection: var(--color-light);
+  --text-selection: var(--color-darkgreen);
 
   --text-on-accent: blue;
 
