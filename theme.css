@@ -3,7 +3,7 @@ body {
   --font-monospace-default: "Lucida Console";
 
   /* default: 700px */
-  --file-line-width: 560px;
+  --file-line-width: 520px;
 
   /* GB Studio colors */
   --color-light: #e0f8cf;
