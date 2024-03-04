@@ -74,7 +74,8 @@ body {
   /* Mouse selection */
   --text-selection: var(--color-darkgreen);
 
-  --text-on-accent: blue;
+  /* Text on settings buttons and sidebar tabs */
+  --text-on-accent: var(--color-darkgreen);
 
   /* Some settings buttons, canvas side buttons */
   --interactive-normal: var(--color-darkgreen);	
@@ -115,7 +116,7 @@ body {
   --background-modifier-border: var(--color-nearblack);
 
   /* Textbox background */
-  --background-modifier-form-field: var(--color-nearblack);
+  --background-modifier-form-field: var(--color-light);
 
   /* Certain hover popups, like sync errors or hover over close window button */
   --background-modifier-form-field-highlighted: var(--color-green);
@@ -158,7 +159,8 @@ body {
   /* Mouse selection */
   --text-selection: var(--color-green);	
 
-  --text-on-accent: blue;
+   /* Text on settings buttons and sidebar tabs */
+  --text-on-accent: var(--color-darkgreen);
 
   /* Some settings buttons, canvas side buttons */
   --interactive-normal: var(--color-light);	
@@ -171,13 +173,13 @@ body {
   --interactive-accent-hover: var(--color-nearblack);	
 
   /* Not sure what this does... */
-  --interactive-success: #197300
+  --interactive-success: #197300;
 
   /* Scrollbar hover */
   --scrollbar-active-thumb-bg: var(--color-green);	
 
   /* Mostly affects light theme */
-  --scrollbar-bg: rgba(0, 0, 0, 0.05)	
+  --scrollbar-bg: rgba(0, 0, 0, 0.05);	
 
   /* Scrollbar */
   --scrollbar-thumb-bg: var(--color-darkgreen);	
