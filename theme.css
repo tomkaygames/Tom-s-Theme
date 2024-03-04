@@ -2,6 +2,9 @@ body {
   --font-default: Courier;
   --font-monospace-default: "Lucida Console";
 
+  /* default: 700px */
+  --file-line-width: 560px;
+
   /* GB Studio colors */
   --color-light: #e0f8cf;
   --color-green: #86c06c;
